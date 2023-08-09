@@ -1,2 +1,6 @@
 env/
 pytorch-deep-learning/
+lecture-code/data/
+lecture-code/models/
+lecture-code/helper_functions.py
+lecture-code/_pycache_/
